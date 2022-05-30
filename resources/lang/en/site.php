@@ -1,0 +1,95 @@
+<?php
+
+return [
+    'all'                       => 'Show all',
+    'tracking'                  => 'tracking',
+    'allServices'               => 'All Services',
+    'portfolio'                 => 'portfolio',
+    'how_we_are'                => 'how we are',
+    'home'                      => 'home',
+    'blogs'                      => 'blogs',
+    'services'                  => 'Services',
+    'about'                     => 'about us',
+    'recipes'                   => 'recipes',
+    'support'                   => 'support',
+    'categories'                => 'categories',
+    'contact'                   => 'contact',
+    'read_more'                 => 'read more',
+    'sent_successully'          => 'Message sent successully',
+
+    'your_name'                 => 'your name',
+    'WorkTogether'              => "Let's Work Together",
+    'workingHours'              => 'working Hours',
+    'your_email'                => 'your email',
+    'more_blog'                 => 'Show more blogs',
+    'your_phone'                => 'your phone',
+    'your_message'              => 'your message',
+    'send_now'                  => 'send now',
+    'contact_info'              => 'contact info',
+
+    'copyrights'                => 'All Copyright Is Reseved',
+
+    'moreabout'                 => 'more about us',
+    'allProjects'                     => 'view all Projects',
+    'phone'                     => 'Phone',
+    'link'                      => 'links',
+    'more'                      => 'Learn More',
+    'language'                  => 'Languages',
+    'clients'                   => 'Happy Clients',
+    'name'                      => 'Name',
+    'email'                     => 'Email',
+    'message'                   => 'Message',
+    'send'                      => 'Send',
+    'website'                   => 'Website',
+    'locations'                 => 'Our Locations',
+    'address'                   => 'Address',
+    'contact_now'               => 'Contact Us Now',
+    'search'                    => 'Search',
+
+    'name_required'             => 'Name required',
+    'message_required'          => 'Message required',
+    'email_required'            => 'Email required',
+
+    'lang'                      => 'English',
+
+    'failed_message'    => 'There is wronr, check all fields (fields cannot be empty)',
+    'success_message'    => 'Your message has been sent successfully, we will contact you as soon as possible',
+    'invalid_name'    => 'invalid name',
+    'invalid_email'    => 'invalid email',
+    'invalid_phone'    => 'invalid phone',
+    'invalid_message'    => 'invalid message',
+    'page_not_found'    => 'page not found',
+    'error'              => 'Error page',
+    'toHome'              => 'Go to home page',
+    'sorry'              => 'Sorry We Can`t Find That Page!',
+    'looking'              => 'The Page You Are Looking For Was Moved, Removed, Renamed Or Never Existed.',
+
+
+
+
+    'search_in_categories'    => 'search in categories',
+    'views'    => 'views',
+    'view_all'    => 'view all',
+    'site_map'    => 'site map',
+    'contact_now'    => 'contact now',
+    'all'    => 'all',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    ''    => '',
+    'parcel'              => 'Track Your Parcel',
+    'freight'             => 'Track Your Freight',
+
+    'messages' => [
+        'removed_favorits' => 'recipe is removed from favorits'
+    ]
+];
